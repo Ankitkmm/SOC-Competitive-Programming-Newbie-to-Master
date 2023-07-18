@@ -1,2 +1,2 @@
-# SOC-Competitive-Programming-Newbie-to-Master
- 
+# CP Problems
+Solutions to CP ( Mainly CF ) problems
